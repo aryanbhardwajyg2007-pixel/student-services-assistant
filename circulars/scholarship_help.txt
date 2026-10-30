@@ -1,0 +1,61 @@
+GLA UNIVERSITY, MATHURA - SCHOLARSHIP CELL
+Circular No: GLA/SCH/2026/008
+Date: 29 October 2026
+Subject: Scholarship help - status, rejection, payment delays and corrections
+(Sample circular created for the hackathon demo. Not real data.)
+
+1. How to check the status of your scholarship application
+1. Log in to the student portal and open the "Scholarship" section, then "Application Status".
+2. The status is one of: Submitted, Under Verification, Verified, Approved, Sent for Payment,
+   Paid or Rejected.
+3. For government scholarships, also check the status on the National Scholarship Portal
+   using your application ID.
+4. Verification normally takes up to 15 working days after you submit.
+5. If the status has not changed for more than 15 working days, email
+   scholarship@gla.example.edu with your name, roll number and application ID, or visit the
+   Scholarship Cell (Admin Block, Room 112).
+
+2. If your scholarship application is rejected
+1. Open the application and read the rejection reason. Common reasons are a missing or
+   unclear document, an expired or invalid income certificate, attendance below 75 percent,
+   a backlog paper, or bank details that do not match.
+2. If the reason can be fixed, collect the correct documents and submit a written appeal
+   with them at the Scholarship Cell (Room 112) within 7 days of the rejection.
+3. The Scholarship Cell reviews the appeal and tells you the result within 10 working days.
+4. If you are not eligible (for example the CGPA or income limit is not met), you can apply
+   again in the next scholarship cycle.
+
+3. Scholarship amount not credited to your bank account
+1. First check that the status shows "Sent for Payment" or "Paid". Approval alone does not
+   mean the money has been sent.
+2. After "Sent for Payment", the amount normally reaches the bank account within 7 working
+   days. Government scholarships depend on when the funding agency releases the money.
+3. Common reasons for a delay: wrong or inactive account number or IFSC code, an account
+   that is not enabled for direct benefit transfer, a name that does not match the bank
+   record, or the funding agency has not released the amount yet.
+4. Check with your bank that the account is active and enabled for direct benefit transfer.
+5. If the status is "Paid" but the amount is missing after 7 working days, email
+   scholarship@gla.example.edu with your roll number, application ID, the payment date shown on
+   the portal and only the last 4 digits of your account number. Do not email the full
+   account number.
+
+4. How to correct an error in your scholarship application
+- Before the last date (5 December 2026) and while the status is "Submitted": open the
+  application on the portal and use the edit option, then submit again.
+- After verification has started: submit a written correction request with a supporting
+  document at the Scholarship Cell (Room 112). Name or date-of-birth corrections need proof
+  such as a school marksheet.
+- Corrections are not accepted after the scholarship is approved, except for bank details
+  (see below).
+
+5. Wrong bank account number in your application
+1. Fill the Bank Detail Correction Form at the Scholarship Cell (Room 112).
+2. Attach: a copy of the first page of your passbook or a cancelled cheque showing your name,
+   account number and IFSC code, a copy of your ID card and your application ID.
+3. The account must be in the student's own name.
+4. The correction is processed within 5 working days.
+5. If the money has already been sent to a wrong account, tell the Scholarship Cell and the
+   Accounts Office immediately so that the bank can be asked to recall the payment. The
+   recall cannot be guaranteed.
+
+For scholarship queries: scholarship@gla.example.edu

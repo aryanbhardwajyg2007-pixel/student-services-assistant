@@ -1,0 +1,35 @@
+GLA UNIVERSITY, MATHURA - REGISTRAR'S OFFICE
+Circular No: GLA/REG/2026/011
+Date: 22 October 2026
+Subject: Bonafide and other certificates
+(Sample circular created for the hackathon demo. Not real data.)
+
+1. Bonafide certificate
+- Proof that the student is currently enrolled at the university.
+- Used for bank loans, passport, scholarships, visa and similar needs.
+- Issued within 3 working days.
+- The first copy in each semester is free. Each additional copy costs Rs 50.
+- Urgent bonafide certificate: same day, with an urgent fee of Rs 100.
+
+2. Fee payment certificate
+- Shows the fees paid by the student.
+- Issued within 2 working days.
+
+3. Character certificate
+- Needs the signature of the Head of Department.
+- Issued within 5 working days.
+
+4. Migration certificate
+- Only for students who have completed their final year.
+- Issued within 7 working days.
+- Fee: Rs 300.
+
+5. How to apply
+- Type "I want a bonafide certificate" in this assistant (or use the Request a
+  certificate button) and answer the questions: full name, roll number and
+  certificate type. The same steps work for the fee payment, character and migration
+  certificates: choose the certificate type when the assistant asks.
+- Keep your ID card and roll number ready when you collect the certificate.
+
+6. Collection
+- Registrar's Office, Counter 2, between 10:00 and 16:00 on working days.

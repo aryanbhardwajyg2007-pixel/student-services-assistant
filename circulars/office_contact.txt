@@ -1,0 +1,13 @@
+GLA UNIVERSITY, MATHURA - STUDENT SERVICES OFFICE
+(Sample contact details created for the hackathon demo. Not real data.)
+
+Location: Admin Block, Ground Floor
+Timings: Monday to Friday, 10:00 to 16:00. Saturday, 10:00 to 13:00. Closed on Sunday.
+Phone: +91-565-000-0000
+Email: studentservices@gla.example.edu
+
+Other offices
+- Accounts Office (fees, payment problems, refunds): accounts@gla.example.edu
+- Examination Cell (exam form, admit card): examcell@gla.example.edu
+- Scholarship Cell (Room 112): scholarship@gla.example.edu
+- Registrar's Office, Counter 2 (certificates and records): certificates@gla.example.edu

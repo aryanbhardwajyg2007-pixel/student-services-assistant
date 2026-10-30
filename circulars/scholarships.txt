@@ -1,0 +1,37 @@
+GLA UNIVERSITY, MATHURA - SCHOLARSHIP CELL
+Circular No: GLA/SCH/2026/005
+Date: 26 October 2026
+Subject: Scholarships for academic year 2026-27
+(Sample circular created for the hackathon demo. Not real data.)
+
+1. Merit scholarship
+- First-year students: the top 5 percent in the entrance test receive a 50 percent
+  tuition fee waiver.
+- Continuing students: CGPA of 9.0 or above receives a 25 percent tuition waiver.
+- Continuing students: CGPA from 8.5 to 8.99 receives a 10 percent tuition waiver.
+
+2. Need-based scholarship
+- Students whose annual family income is below Rs 2.5 lakh receive a 30 percent
+  tuition fee waiver.
+- An income certificate is required.
+
+3. Sports scholarship
+- State-level players: 20 percent tuition waiver.
+- National-level players: 40 percent tuition waiver.
+
+4. Government scholarships (SC, ST, OBC and minority schemes)
+- Apply on the National Scholarship Portal.
+- The Scholarship Cell verifies the application. Submit printed copies of the
+  application for verification.
+
+5. How to apply for university scholarships
+- Last date: 5 December 2026.
+- Documents: income certificate, last marksheet, bank passbook copy, Aadhaar copy,
+  latest fee receipt.
+- Submit at the Scholarship Cell, Admin Block, Room 112.
+
+6. Conditions to continue
+- At least 75 percent attendance and no backlog papers.
+- A scholarship may be withdrawn if these conditions are not met.
+
+For scholarship queries: scholarship@gla.example.edu

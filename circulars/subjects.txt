@@ -1,0 +1,32 @@
+GLA UNIVERSITY, MATHURA - ACADEMIC AFFAIRS
+Circular No: GLA/ACAD/2026/024
+Date: 29 October 2026
+Subject: B.Tech subjects and subject codes
+(Sample circular created for the hackathon demo. Not real data.)
+
+1. B.Tech subjects and their codes (the five subjects listed for this demo)
+1. Design and Prototyping - subject code BDPG 0001
+2. Mathematics - subject code BAMS 0002
+3. Science for Engineering - subject code BCHS 0002
+4. Industrial Automation - subject code BIAG 0001
+5. Cyber Security - subject code BSCS 0607
+
+2. Where subject codes are used
+- Exam form: select each subject by its code, for example "Cyber Security (BSCS 0607)".
+- Attendance records and the attendance shortage list.
+- Admit card and result.
+- Backlog (re-appear) and revaluation applications.
+- Condonation applications.
+
+3. Rules that apply to every subject
+- At least 75 percent attendance is required in each subject (circular GLA/ACAD/2026/021).
+- Condonation for 65 to 74 percent attendance costs Rs 500 per subject.
+- A backlog (re-appear) paper costs Rs 600 per paper.
+- Revaluation costs Rs 800 per paper and must be applied for within 7 days of the result.
+- Always quote the subject name together with its code in emails and applications.
+  Example: "Industrial Automation (BIAG 0001)".
+
+4. Other subjects
+- This circular lists only the five subjects above. For any other subject, ask the
+  student's Head of Department or Academic Affairs.
+- Syllabus, credits, faculty and timetable are not part of this circular.

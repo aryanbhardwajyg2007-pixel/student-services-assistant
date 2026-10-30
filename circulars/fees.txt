@@ -1,0 +1,45 @@
+GLA UNIVERSITY, MATHURA - ACCOUNTS OFFICE
+Circular No: GLA/ACC/2026/014
+Date: 28 October 2026
+Subject: Fee schedule for academic year 2026-27
+(Sample circular created for the hackathon demo. Not real data.)
+
+1. Tuition fee per semester
+- B.Tech (all branches): Rs 60,000
+- BCA / BBA: Rs 35,000
+- MBA: Rs 75,000
+
+2. Other fees per semester
+- Library and laboratory fee: Rs 4,000
+- Examination fee: Rs 1,500 (paid when the exam form is filled)
+- Hostel, double occupancy: Rs 45,000
+- Mess charges: Rs 24,000
+
+3. Due dates
+- Odd semester (July to December): 20 November 2026
+- Even semester (January to June): 31 January 2027
+
+4. Late fee
+- Rs 100 per day after the due date, up to a maximum of Rs 2,000.
+- If fees remain unpaid 15 days after the due date, the student's name may be removed
+  from the rolls unless the Dean approves an extension.
+
+5. How to pay
+- Online through the student portal (UPI, net banking, debit or credit card).
+- Demand draft in favour of "GLA University".
+- Cash is not accepted at the accounts counter.
+
+6. Receipts
+- A receipt is generated automatically on the student portal after online payment.
+- A duplicate receipt can be collected from the Accounts Office for Rs 50.
+
+7. Refund
+- 90 percent of the tuition fee is refunded if the student withdraws before classes start.
+- 50 percent is refunded if the student withdraws within 15 days of classes starting.
+- No refund after 15 days.
+
+8. Instalments
+- Students with annual family income below Rs 3 lakh may pay in two instalments.
+- Apply to the Accounts Office with an income certificate by 10 November 2026.
+
+For fee queries: accounts@gla.example.edu

@@ -1,0 +1,58 @@
+GLA UNIVERSITY, MATHURA - ACCOUNTS OFFICE
+Circular No: GLA/ACC/2026/017
+Date: 29 October 2026
+Subject: Fee help - checking dues, pending payments, double payments and fee certificate errors
+(Sample circular created for the hackathon demo. Not real data.)
+
+1. How to check your pending college fees
+Step 1: Log in to the student portal with your roll number and password.
+Step 2: Open the "Accounts" or "Fees" section and choose "Fee Statement" (also called
+        "Pending Dues").
+Step 3: Read the semester-wise table. It shows the total fee, the amount paid, the balance
+        (pending amount), the due date and any late fee added so far.
+Step 4: Check the hostel and mess fees separately, because they are listed on their own lines.
+Step 5: Click "Download Statement" to save a PDF copy for your records.
+- The balance shown is the amount you must pay. If the due date has passed, the late fee of
+  Rs 100 per day (maximum Rs 2,000) is already included.
+- If you cannot see the Fees section, or the amount looks wrong, email accounts@gla.example.edu
+  with your name, roll number and a screenshot of the page, or visit the Accounts Office
+  (Admin Block) with your ID card between 10:00 and 16:00 on working days.
+- Having no pending dues is required for filling the exam form and for getting the admit card.
+
+2. Payment is successful but the website still shows it as pending
+1. Do NOT pay again. Wait 24 hours, because bank confirmation can take that long. It may take
+   up to 2 working days on weekends and holidays.
+2. Keep proof: the transaction ID (UTR or reference number), the date and time, the amount,
+   the bank SMS or debit entry in your bank statement, and a screenshot of the success page.
+3. Check whether the amount was really debited from your account. If it was not debited,
+   the payment failed and you must pay again.
+4. If the amount was debited and the portal still shows "Pending" after 2 working days, email
+   accounts@gla.example.edu with: full name, roll number, transaction ID, date and time,
+   amount, and the screenshot or bank statement entry.
+5. The Accounts Office checks with the payment gateway and updates your account within
+   3 working days. You will get a reply by email.
+6. If the exam form or admit card date is close, tell the Accounts Office and the Examination
+   Cell at once and carry your bank proof. A payment made before the due date is not treated
+   as late once the proof is verified.
+7. If it is still not updated after 7 working days, contact the Student Services Office.
+
+3. Fees paid twice by mistake
+- Contact the Accounts Office (accounts@gla.example.edu or the counter in the Admin Block)
+  within 30 days of the payment.
+- Bring or send: your roll number, both transaction IDs, the dates and amounts, and the bank
+  statement showing both debits.
+- After verification, the extra amount is refunded to the same bank account or card that was
+  used for payment, within 7 to 10 working days. No charge is deducted for a duplicate payment.
+- If you prefer, you can ask in writing to have the extra amount adjusted against your next
+  semester fee.
+
+4. Fee payment certificate shows an incorrect amount
+1. Do not submit or use the certificate.
+2. Email accounts@gla.example.edu or visit the Accounts Office with: the incorrect certificate,
+   your fee receipts for that semester, your ID card and your roll number.
+3. The Accounts Office compares the certificate with the fee ledger.
+4. A corrected certificate is issued within 2 working days. There is no charge if the mistake
+   was made by the university. If the mistake came from wrong details given by the student,
+   the normal certificate fee applies.
+
+For fee queries: accounts@gla.example.edu

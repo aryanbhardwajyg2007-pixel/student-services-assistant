@@ -1,0 +1,41 @@
+GLA UNIVERSITY, MATHURA - EXAMINATION CELL
+Circular No: GLA/EXAM/2026/012
+Date: 29 October 2026
+Subject: Exam help - fee deducted but form not submitted, confirmation receipt, admit card problems
+(Sample circular created for the hackathon demo. Not real data.)
+
+1. Examination form fee deducted but the form is not submitted
+1. Do NOT pay again. A gateway delay can leave the form incomplete even though the money was
+   debited.
+2. Wait 24 hours and check the "Exam Form" status on the student portal again.
+3. Confirm the debit in your bank statement or SMS and keep: the transaction ID, date and
+   time, amount, and a screenshot of the error or success page.
+4. If the form is still not submitted, email examcell@gla.example.edu with your name, roll
+   number, semester, transaction ID, date and time, amount and the screenshot.
+5. The Examination Cell verifies the payment and completes the form within 2 working days.
+6. A payment made before the last date is not counted as late once the proof is verified.
+   If the last date (25 November 2026) is close, visit the Examination Cell in the Admin
+   Block with your ID card and the bank proof on the same day.
+
+2. How to download the examination form confirmation receipt
+1. Log in to the student portal and open "Examination", then "Exam Form".
+2. Check that the status shows "Submitted". The receipt is available only after submission.
+3. Click "Download Confirmation Receipt" to save the PDF, and keep a printed copy.
+4. If the download option is missing, the form is still incomplete or the payment is not
+   confirmed yet. Follow the steps in section 1 or email examcell@gla.example.edu with your
+   roll number.
+
+3. Exam fees paid but the admit card cannot be downloaded
+Admit cards are available from 1 December 2026. If you cannot download yours, check these in order:
+1. Exam form status: it must show "Submitted". If not, follow section 1.
+2. Pending dues: any pending university fee blocks the admit card. Check your fee statement
+   on the portal and clear the dues (see the fee help circular GLA/ACC/2026/017).
+3. Attendance: below 75 percent in any subject, without approved condonation, blocks the
+   admit card.
+4. Missing photo or signature: upload it in your portal profile if the portal asks for it.
+5. Payment still pending: if your exam fee shows as pending, see the fee help circular.
+6. If none of these applies, email examcell@gla.example.edu with your roll number and a
+   screenshot of the error. If your exam is within 48 hours, go to the Examination Cell in
+   person with your ID card and the exam fee receipt.
+
+For exam queries: examcell@gla.example.edu
